@@ -6,7 +6,7 @@
 ### 免责声明
 本项目仅用于虚拟专用网络（VPN）进行的网络加速，不可用于非法用途。对于滥用本项目中的任何内容造成的违法行为，项目创建者不承担任何责任。
 ## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=RYSF13/VPNDatabase&type=Date)](https://www.star-history.com/#RYSF13/VPNDatabase&Date)
+![Star History Chart](https://api.star-history.com/svg?repos=RYSF13/VPNDatabase&type=Date)
 ## 订阅地址
 ### 手动复制
 `main/raw`目录下的所有文件。
